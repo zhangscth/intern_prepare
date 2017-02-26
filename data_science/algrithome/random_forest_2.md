@@ -1,8 +1,6 @@
 
 #机器学习算法之随机森林（Random Forest）
-2015-04-23 | tags: pythonrandom forestmachine leaning
-机器学习算法之随机森林（Random Forest）
-
+来源：http://backnode.github.io/pages/2015/04/23/random-forest.html
 转载请注明出处：BackNode
 
 随机森林作为两大ensemble methods之一，近年来非常火热，本文试图探讨一下其背后原理，欢迎指正！
